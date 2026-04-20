@@ -16,7 +16,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Sobieh - Protofolio",
+  title: "Sobih - Portfolio",
   description: "Professional portfolio showcasing my work and skills",
   generator: "v0.app",
 }

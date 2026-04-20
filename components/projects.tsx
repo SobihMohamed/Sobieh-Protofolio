@@ -6,21 +6,6 @@ import { ExternalLink, Github, ChevronLeft, ChevronRight } from "lucide-react"
 
 const projects = [
   {
-    title: "EOS - Premium Streetwear Store",
-    category: "Front-end - Freelance",
-    description:
-      "A live Freelance e-commerce platform built for a fashion brand, currently generating active sales. Features automated email order notifications and a premium, responsive UI designed with React and Material UI to drive business growth.",
-    images: [
-      "/Projects/FifthProject/image1.png",
-      "/Projects/FifthProject/image2.png",
-      "/Projects/FifthProject/image3.png",
-      "/Projects/FifthProject/image4.png",
-    ],
-    technologies: ["React", "Material UI", "Freelance"],
-    liveUrl: "https://eos-pants.vercel.app/",
-    githubUrl: "https://github.com/SobihMohamed/EOS-Pants",
-  },
-  {
     title: "Makanak - Real Estate Marketplace",
     category: "Backend-Freelance",
     description:
@@ -34,8 +19,23 @@ const projects = [
       "/Projects/SixthProject/image6.png",
     ],
     technologies: [".NET 10", "Clean Arch", "SignalR", "SQL Server"],
-    liveUrl: "https://github.com/SobihMohamed/Makanak",
+    liveUrl: "https://www.makanak.site/",
     githubUrl: "https://github.com/SobihMohamed/Makanak",
+  },
+  {
+    title: "EOS - Premium Streetwear Store",
+    category: "Front-end - Freelance",
+    description:
+      "A live Freelance e-commerce platform built for a fashion brand, currently generating active sales. Features automated email order notifications and a premium, responsive UI designed with React and Material UI to drive business growth.",
+    images: [
+      "/Projects/FifthProject/image1.png",
+      "/Projects/FifthProject/image2.png",
+      "/Projects/FifthProject/image3.png",
+      "/Projects/FifthProject/image4.png",
+    ],
+    technologies: ["React", "Material UI", "Freelance"],
+    liveUrl: "https://eos-pants.vercel.app/",
+    githubUrl: "https://github.com/SobihMohamed/EOS-Pants",
   },
   {
     title: "Markoot - E-Commerce Interface",
